@@ -1,0 +1,10 @@
+:root  {
+  font-family: 'Overpass', sans-serif;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #141519;
+}
+
